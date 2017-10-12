@@ -1,3 +1,7 @@
+exports.printMsg = function(){
+	console.log("This is a simple test message from tf project");
+}
+
 var math = require('mathjs')
 
 //Create DH Table:
